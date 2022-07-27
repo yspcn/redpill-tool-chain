@@ -1,4 +1,6 @@
 # RedPill Tool Chain
+https://www.cnblogs.com/suguangti/p/15915293.html
+https://imnks.com/5722.html
 
 [![构建](https://github.com/tossp/redpill-tool-chain/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/tossp/redpill-tool-chain/actions/workflows/test.yml)
 
